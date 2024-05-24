@@ -3,6 +3,9 @@
     border: 1px solid red;
 }
 
+.j-img{
+    width: 100%;
+}
 
 .h-bar{
     background-color: #2c3e50;
@@ -19,7 +22,7 @@
     height: 1000px;
 }
 
-.full-container{
+.container-fluid{
     border: 3px black dotted;
 }
 

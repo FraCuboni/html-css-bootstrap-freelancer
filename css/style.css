@@ -1,10 +1,22 @@
+*{
+    color: black;
+}
 
 [class*="col-"]{
+    min-height: 3rem;
+    border: 2px yellow dashed;
+}
+
+[class*="row"]{
+    border: 1px black solid;
 }
 
 .space{
     width: 100%;
     min-height: 2rem;
+}
+
+.inner-space{
 }
 
 .dark-petrol{

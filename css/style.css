@@ -1,21 +1,24 @@
 
 [class*="col-"]{
-    border: 1px solid red;
 }
 
-.j-img{
+.space{
+    min-height: 200px;
     width: 100%;
+    background-color: red;
+    border: 5px dashed black;
+}
+
+img{
+    max-height: 100%;
 }
 
 .h-bar{
     background-color: #2c3e50;
-    height: 70px;
-    padding: 20px;
 }
 
 .green-back{
     background-color: #1abc9c;
-    height: 500px;
 }
 
 .portfolio{
@@ -23,6 +26,6 @@
 }
 
 .container-fluid{
-    border: 3px black dotted;
+    border: 3px red dotted;
 }
 

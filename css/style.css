@@ -16,7 +16,8 @@
     min-height: 2rem;
 }
 
-.inner-space{
+img{
+    max-width: 100%;
 }
 
 .dark-petrol{

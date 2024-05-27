@@ -65,3 +65,25 @@ img{
     background-color: white;
 }
 
+button, [type="submit"]{
+    background-color: #1abc9c;
+    padding: 0.5rem;
+    border: 1px solid white;
+    border-radius: 15px;
+    color:white;
+}
+
+.icon{
+    display: inline-block;
+    height: 3rem;
+    margin: 0.2rem;
+    font-size: 1.5rem;
+    aspect-ratio: 1 / 1 ;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.icon>a{
+    
+    color: white;
+}

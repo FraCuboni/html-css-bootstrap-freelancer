@@ -2,7 +2,7 @@
 }
 
 [class*="col-"]{
-    min-height: 3rem;
+    padding: 1rem 0.5rem;
     border: 2px yellow dashed;
 }
 
@@ -40,5 +40,27 @@ img{
     border: none;
     border-bottom: 1px solid black;
     padding: 0.5rem 0;
+}
+
+.star{
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.star-bar{
+    height: 3px;
+    width: 20%;
+    border-radius: 50px;
+}
+
+.black{
+    background-color: black;
+}
+
+.white{
+    background-color: white;
 }
 

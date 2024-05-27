@@ -10,11 +10,12 @@
     border: 1px black solid;
 }
 
-.space{
-    width: 100%;
-    min-height: 2rem;
+a{
+    text-decoration: none;
 }
 
+.avatar{
+}
 img{
     max-width: 100%;
     border-radius: 15px;
@@ -52,7 +53,7 @@ img{
 
 .star-bar{
     height: 3px;
-    width: 20%;
+    width: 10%;
     border-radius: 50px;
 }
 

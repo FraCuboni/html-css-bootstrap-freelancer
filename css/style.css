@@ -3,11 +3,9 @@
 
 [class*="col-"]{
     padding: 1rem 0.5rem;
-    border: 2px yellow dashed;
 }
 
 [class*="row"]{
-    border: 1px black solid;
 }
 
 a{
@@ -15,9 +13,6 @@ a{
 }
 
 .navbar-brand, .nav-link{
-    color: white;
-}
-.navbar-toggler-icon{
     color: white;
 }
 

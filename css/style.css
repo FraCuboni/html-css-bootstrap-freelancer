@@ -14,8 +14,14 @@ a{
     text-decoration: none;
 }
 
-.avatar{
+.navbar-brand, .nav-link{
+    color: white;
 }
+.navbar-toggler-icon{
+    color: white;
+}
+
+
 img{
     max-width: 100%;
     border-radius: 15px;
@@ -86,4 +92,8 @@ button, [type="submit"]{
 .icon>a{
     
     color: white;
+}
+
+li{
+    
 }
